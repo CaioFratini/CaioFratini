@@ -6,6 +6,11 @@
 
 ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=tokyonight)
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
 
 
 ### Tecnologias que eu utilizo no meu dia 
