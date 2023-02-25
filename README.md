@@ -7,6 +7,13 @@
 <h2>Sou um programador iniciante em busca de desafios e oportunidades para crescer na carreira de tecnologia.
 <br>Busco adquirir conhecimentos e experiências para me tornar um profissional de destaque e contribuir para o desenvolvimento de soluções inovadoras.</h2>
 
+Tecnologias que eu utilizo no meu dia 
+
+<div> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </div> 
+
+
 ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=tokyonight)
 
 
