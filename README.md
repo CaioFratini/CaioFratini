@@ -19,4 +19,4 @@
 
 
 
-### Tecnologias que eu utilizo no meu dia 
+### 
