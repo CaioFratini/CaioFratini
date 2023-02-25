@@ -1,4 +1,4 @@
-### <img align="right" height="590em" width="450em"  src="https://i.pinimg.com/236x/c3/20/2d/c3202d6f8d344c8717ae470616c89f14.jpg"/>
+### <img align="right"   src="https://i.pinimg.com/564x/c8/02/08/c802084a23b11f3f8d77fecd6f78f38e.jpg"/>
 Olá ! Eu sou o Caio Fratini 🤙
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
