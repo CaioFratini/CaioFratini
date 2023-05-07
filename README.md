@@ -1,4 +1,4 @@
- <img align="center" height="550px" src="https://i.pinimg.com/564x/fe/be/53/febe53a4217140fb8c677ae3b1c7f682.jpg"/>
+ <img align="left" height="550px" src="https://i.pinimg.com/564x/fe/be/53/febe53a4217140fb8c677ae3b1c7f682.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
