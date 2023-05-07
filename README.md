@@ -1,11 +1,12 @@
- <img align="right" height="550px" src="https://i.pinimg.com/564x/fe/be/53/febe53a4217140fb8c677ae3b1c7f682.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
 <h3>Sou um programador iniciante em busca de desafios e oportunidades para crescer na carreira de tecnologia.
 <br> Busco adquirir conhecimentos e experiências para me tornar um profissional de destaque e contribuir para o desenvolvimento de soluções inovadoras.</h3>
 
-<img align="left" height="250px" box-sizing="250px"  src= "https://64.media.tumblr.com/899c8fc1ed7b2994c0e922edea6eea1d/tumblr_oj2skethCe1sg8uefo1_540.gifv" />
+ <img align="right" height="550px" src="https://i.pinimg.com/564x/fe/be/53/febe53a4217140fb8c677ae3b1c7f682.jpg"/>
+
+<img align="left" height="350px" box-sizing="250px"  src= "https://64.media.tumblr.com/899c8fc1ed7b2994c0e922edea6eea1d/tumblr_oj2skethCe1sg8uefo1_540.gifv" />
 
 <br> ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=tokyonight)
 
