@@ -1,4 +1,4 @@
-### <img align="right"   src="https://i.pinimg.com/564x/c8/02/08/c802084a23b11f3f8d77fecd6f78f38e.jpg"/>
+### <img src="https://media2.giphy.com/media/UqRjAdf39bGZ4F6yzQ/200w.webp?cid=ecf05e475gddnbtwn9m00al318fqyvqfevoz38j75e0ad9rf&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 <h1> Olá ! Eu sou o Caio Fratini 🤙</h1>
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
