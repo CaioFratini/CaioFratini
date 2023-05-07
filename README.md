@@ -11,14 +11,14 @@
 <br> ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=github_dark)
 
 
- <br> [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
+ <br> [![LINKEDIN](https://img.shields.io/badge/LinkedIn-52796F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
 
 <h1>Tecnologias  ಠ_ಠ </h1>
 
-<div> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </div>
+<div> <img src="https://img.shields.io/badge/HTML-52796F?style=for-the-badge&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS-52796F?&style=for-the-badge&logo=css3&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/JavaScript-52796F?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
+      <img src="https://img.shields.io/badge/React-52796F?style=for-the-badge&logo=react&logoColor=61DAFB"/> </div>
 
 
 
