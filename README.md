@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Design;Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
 <h2>Sou um programador iniciante em busca de desafios e oportunidades para crescer na carreira de tecnologia.
