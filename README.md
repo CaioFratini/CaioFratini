@@ -7,7 +7,8 @@
 <img align="left" height=250px src= "https://64.media.tumblr.com/899c8fc1ed7b2994c0e922edea6eea1d/tumblr_oj2skethCe1sg8uefo1_540.gifv" />
 
 ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=tokyonight)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
+
+ <br> [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fratini/)
 
 <h1>Tecnologias  ಠ_ಠ </h1>
 
