@@ -6,7 +6,7 @@
 
  <img align="right" height="550px" src="https://i.pinimg.com/564x/fe/be/53/febe53a4217140fb8c677ae3b1c7f682.jpg"/>
 
-<img align="left" height="350px" box-sizing="250px"  src= "https://64.media.tumblr.com/899c8fc1ed7b2994c0e922edea6eea1d/tumblr_oj2skethCe1sg8uefo1_540.gifv" />
+<img align="left" height="250px" box-sizing="250px"  src= "https://64.media.tumblr.com/899c8fc1ed7b2994c0e922edea6eea1d/tumblr_oj2skethCe1sg8uefo1_540.gifv" />
 
 <br> ![CaioFratini GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFratini&show_icons=true&theme=tokyonight)
 
