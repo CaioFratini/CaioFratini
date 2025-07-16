@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Full+Stack)](https://git.io/typing-svg)
 
-<h3>Sou um programador iniciante em busca de desafios e oportunidades para crescer na carreira de tecnologia.
+<h3>Sou um programador  em busca de desafios e oportunidades para crescer na carreira de tecnologia.
 <br> Busco adquirir conhecimentos e experiências para me tornar um profissional de destaque e contribuir para o desenvolvimento de soluções inovadoras.</h3>
 
  <img align="right" height="550px" src="https://i.pinimg.com/564x/3a/d8/3b/3ad83bf37e5f7f24feec94e1d172031b.jpg"/>
