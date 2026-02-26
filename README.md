@@ -19,8 +19,11 @@
       <img src="https://img.shields.io/badge/CSS-0E151D?&style=for-the-badge&logo=css3&logoColor=white"/> 
       <img src="https://img.shields.io/badge/JavaScript-0E151D?style=for-the-badge&logo=javascript&logoColor=white"/> <br>
       <img src="https://img.shields.io/badge/React-0E151D?style=for-the-badge&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-0E151D?style=for-the-badge&logo=node.js&logoColor=white"/> </div>
-      <img src="https://img.shields.io/badge/Python-0E151D?style=for-the-badge&logo=python&logoColor=white"/> </div>
+      <img src="https://img.shields.io/badge/Node.js-0E151D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-0E151D?style=for-the-badge&logo=python&logoColor=white"/> 
+
+</div> 
+     
 
 
 
